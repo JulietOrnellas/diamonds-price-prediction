@@ -1,6 +1,6 @@
 # Diamonds Price Prediction 💎
 
-This repository contains an end‑to‑end regression analysis of the classic **`seaborn` diamonds** dataset. The project showcases core data‑science skills—exploratory analysis, feature engineering, ordinary‑least‑squares modeling, metric comparison, and clear visualization—making it a strong portfolio piece.
+This repository contains an end‑to‑end regression analysis of the classic **`seaborn` diamonds** dataset. The project showcases core data‑science skills—exploratory analysis, feature engineering, ordinary‑least‑squares modeling, metric comparison, and clear visualization.
 
 ---
 
